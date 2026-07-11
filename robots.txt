@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.themantraa.com/sitemap.xml
+Sitemap: https://themantraa.com/sitemap.xml
 
 Disallow: /api/
 Disallow: /admin/
